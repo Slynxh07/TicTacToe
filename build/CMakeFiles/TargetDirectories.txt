@@ -1,3 +1,0 @@
-/home/sean/cppProjects/ticTacToe/build/CMakeFiles/TicTacToe.dir
-/home/sean/cppProjects/ticTacToe/build/CMakeFiles/edit_cache.dir
-/home/sean/cppProjects/ticTacToe/build/CMakeFiles/rebuild_cache.dir
